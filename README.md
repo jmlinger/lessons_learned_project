@@ -1,6 +1,6 @@
 1 - Lessons Learned Project
 
-Projeto utilizado como método avaliativo do curso de Full Stack Development da Trybe.
+Projeto desenvolvido como método avaliativo do curso de Full Stack Development da Trybe.
 
 Tecnologias utilizadas: HTML e CSS.
 
